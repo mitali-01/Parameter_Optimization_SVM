@@ -1,5 +1,4 @@
-# Parameter_Optimization_SVM_UCS654
-Assignment - 05
+# Parameter_Optimization_SVM on DRY BEAN DATASET
 
 ## Introduction
 Support Vector Machine (SVM) is a popular machine learning algorithm used for classification and regression analysis that aims to find the optimal boundary between different classes or groups in the data. It is particularly useful when dealing with complex datasets that have multiple features, as it can effectively classify data points into different categories based on their features.
